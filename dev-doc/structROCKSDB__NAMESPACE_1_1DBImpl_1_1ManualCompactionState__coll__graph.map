@@ -1,0 +1,52 @@
+<map id="ROCKSDB_NAMESPACE::DBImpl::ManualCompactionState" name="ROCKSDB_NAMESPACE::DBImpl::ManualCompactionState">
+<area shape="rect" id="node1" title=" " alt="" coords="2373,213,2612,254"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="2008,154,2189,195"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1InternalKey.html" title=" " alt="" coords="951,87,1132,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="419,895,477,921"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1ColumnFamilyData.html" title=" " alt="" coords="2008,694,2189,735"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1ColumnFamilySet.html" title=" " alt="" coords="2402,1874,2583,1915"/>
+<area shape="rect" id="node13" href="$structROCKSDB__NAMESPACE_1_1ImmutableDBOptions.html" title=" " alt="" coords="1180,1914,1361,1955"/>
+<area shape="rect" id="node29" href="$classROCKSDB__NAMESPACE_1_1InternalKeyComparator.html" title=" " alt="" coords="730,450,911,491"/>
+<area shape="rect" id="node37" href="$classROCKSDB__NAMESPACE_1_1TableCache.html" title=" " alt="" coords="2008,1017,2189,1058"/>
+<area shape="rect" id="node38" href="$classROCKSDB__NAMESPACE_1_1VersionSet.html" title=" " alt="" coords="2008,1690,2189,1731"/>
+<area shape="rect" id="node41" href="$classROCKSDB__NAMESPACE_1_1VersionEdit.html" title=" " alt="" coords="951,973,1132,1014"/>
+<area shape="rect" id="node32" href="$structROCKSDB__NAMESPACE_1_1SuperVersion.html" title=" " alt="" coords="2725,942,2907,983"/>
+<area shape="rect" id="node34" href="$classROCKSDB__NAMESPACE_1_1Version.html" title=" " alt="" coords="2402,942,2583,983"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1BlockCacheTracer.html" title=" " alt="" coords="1639,1667,1820,1709"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1InstrumentedMutex.html" title=" " alt="" coords="1180,1603,1361,1645"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1SystemClock.html" title=" " alt="" coords="730,1635,911,1677"/>
+<area shape="rect" id="node40" href="$classROCKSDB__NAMESPACE_1_1MemTable.html" title=" " alt="" coords="1639,1242,1820,1283"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1Statistics.html" title=" " alt="" coords="730,1529,911,1570"/>
+<area shape="rect" id="node45" href="$structROCKSDB__NAMESPACE_1_1ImmutableMemTableOptions.html" title=" " alt="" coords="1165,1307,1376,1349"/>
+<area shape="rect" id="node11" href="$structROCKSDB__NAMESPACE_1_1TraceOptions.html" title=" " alt="" coords="1180,1669,1361,1710"/>
+<area shape="rect" id="node12" href="$classROCKSDB__NAMESPACE_1_1Cache.html" title=" " alt="" coords="1639,1391,1820,1433"/>
+<area shape="rect" id="node39" href="$classROCKSDB__NAMESPACE_1_1BlobFileCache.html" title=" " alt="" coords="2008,1102,2189,1143"/>
+<area shape="rect" id="node26" href="$structROCKSDB__NAMESPACE_1_1ImmutableOptions.html" title=" " alt="" coords="1639,933,1820,974"/>
+<area shape="rect" id="node14" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="718,2073,923,2100"/>
+<area shape="rect" id="node15" href="$classROCKSDB__NAMESPACE_1_1SmallEnumSet.html" title=" " alt="" coords="726,1983,915,2039"/>
+<area shape="rect" id="node16" href="$classROCKSDB__NAMESPACE_1_1Logger.html" title=" " alt="" coords="730,1307,911,1349"/>
+<area shape="rect" id="node17" href="$classROCKSDB__NAMESPACE_1_1WalFilter.html" title=" " alt="" coords="730,1917,911,1958"/>
+<area shape="rect" id="node18" href="$classROCKSDB__NAMESPACE_1_1WriteBufferManager.html" title=" " alt="" coords="730,921,911,962"/>
+<area shape="rect" id="node44" href="$classROCKSDB__NAMESPACE_1_1AllocTracker.html" title=" " alt="" coords="1180,1113,1361,1154"/>
+<area shape="rect" id="node19" href="$classROCKSDB__NAMESPACE_1_1WriteController.html" title=" " alt="" coords="2008,1874,2189,1915"/>
+<area shape="rect" id="node20" href="$structROCKSDB__NAMESPACE_1_1FileOptions.html" title=" " alt="" coords="1639,1074,1820,1115"/>
+<area shape="rect" id="node21" href="$structROCKSDB__NAMESPACE_1_1EnvOptions.html" title=" " alt="" coords="1180,917,1361,958"/>
+<area shape="rect" id="node22" href="$structROCKSDB__NAMESPACE_1_1MutableCFOptions.html" title=" " alt="" coords="1639,217,1820,258"/>
+<area shape="rect" id="node23" href="$structROCKSDB__NAMESPACE_1_1CompactionOptionsFIFO.html" title=" " alt="" coords="730,385,911,426"/>
+<area shape="rect" id="node49" href="$structROCKSDB__NAMESPACE_1_1AdvancedColumnFamilyOptions.html" title=" " alt="" coords="1156,378,1385,419"/>
+<area shape="rect" id="node24" href="$classROCKSDB__NAMESPACE_1_1CompactionOptionsUniversal.html" title=" " alt="" coords="715,319,927,361"/>
+<area shape="rect" id="node25" href="$structROCKSDB__NAMESPACE_1_1CompressionOptions.html" title=" " alt="" coords="1180,261,1361,302"/>
+<area shape="rect" id="node48" href="$structROCKSDB__NAMESPACE_1_1ColumnFamilyOptions.html" title=" " alt="" coords="1639,495,1820,537"/>
+<area shape="rect" id="node27" href="$structROCKSDB__NAMESPACE_1_1ImmutableCFOptions.html" title=" " alt="" coords="1180,621,1361,662"/>
+<area shape="rect" id="node28" href="$classROCKSDB__NAMESPACE_1_1Comparator.html" title=" " alt="" coords="5,403,187,445"/>
+<area shape="rect" id="node30" href="$classROCKSDB__NAMESPACE_1_1UserComparatorWrapper.html" title=" " alt="" coords="356,450,540,491"/>
+<area shape="rect" id="node35" href="$classROCKSDB__NAMESPACE_1_1VersionStorageInfo.html" title=" " alt="" coords="1180,54,1361,95"/>
+<area shape="rect" id="node43" href="$structROCKSDB__NAMESPACE_1_1MemTable_1_1KeyComparator.html" title=" " alt="" coords="1171,1047,1370,1089"/>
+<area shape="rect" id="node31" href="$classROCKSDB__NAMESPACE_1_1CompactionFilter.html" title=" " alt="" coords="730,590,911,631"/>
+<area shape="rect" id="node33" href="$classROCKSDB__NAMESPACE_1_1autovector.html" title=" " alt="" coords="2387,1447,2598,1503"/>
+<area shape="rect" id="node36" href="$classROCKSDB__NAMESPACE_1_1MergeOperator.html" title=" " alt="" coords="730,855,911,897"/>
+<area shape="rect" id="node42" href="$classROCKSDB__NAMESPACE_1_1ConcurrentArena.html" title=" " alt="" coords="1180,1242,1361,1283"/>
+<area shape="rect" id="node46" href="$classROCKSDB__NAMESPACE_1_1SliceTransform.html" title=" " alt="" coords="1180,1373,1361,1414"/>
+<area shape="rect" id="node47" href="$classROCKSDB__NAMESPACE_1_1MemTableListVersion.html" title=" " alt="" coords="1180,982,1361,1023"/>
+<area shape="rect" id="node50" href="$classROCKSDB__NAMESPACE_1_1MemTableList.html" title=" " alt="" coords="1639,803,1820,845"/>
+</map>

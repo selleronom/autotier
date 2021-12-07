@@ -1,0 +1,6 @@
+<map id="ROCKSDB_NAMESPACE::Arena" name="ROCKSDB_NAMESPACE::Arena">
+<area shape="rect" id="node1" title=" " alt="" coords="67,213,248,255"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Allocator.html" title=" " alt="" coords="5,109,187,151"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1AllocTracker.html" title=" " alt="" coords="211,109,392,151"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1WriteBufferManager.html" title=" " alt="" coords="211,5,392,47"/>
+</map>

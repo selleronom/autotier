@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::RandomTransactionInserter" name="ROCKSDB_NAMESPACE::RandomTransactionInserter">
+<area shape="rect" id="node1" title=" " alt="" coords="707,136,907,177"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Transaction.html" title=" " alt="" coords="372,5,553,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,13,125,39"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="372,71,553,112"/>
+<area shape="rect" id="node5" href="$structROCKSDB__NAMESPACE_1_1ReadOptions.html" title=" " alt="" coords="372,136,553,177"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Snapshot.html" title=" " alt="" coords="5,67,187,108"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="5,179,187,220"/>
+<area shape="rect" id="node8" href="$structROCKSDB__NAMESPACE_1_1WriteOptions.html" title=" " alt="" coords="372,201,553,243"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1Random64.html" title=" " alt="" coords="372,267,553,308"/>
+</map>

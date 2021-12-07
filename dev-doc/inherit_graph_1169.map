@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classROCKSDB__NAMESPACE_1_1VersionEditHandlerBase.html" title=" " alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1FileChecksumRetriever.html" title=" " alt="" coords="244,5,425,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1ListColumnFamiliesHandler.html" title=" " alt="" coords="235,71,435,112"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1VersionEditHandler.html" title=" " alt="" coords="244,136,425,177"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1DumpManifestHandler.html" title=" " alt="" coords="504,103,685,144"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1VersionEditHandlerPointInTime.html" title=" " alt="" coords="483,168,707,209"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1ManifestTailer.html" title=" " alt="" coords="755,168,936,209"/>
+</map>

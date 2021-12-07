@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::EventLoggerStream" name="ROCKSDB_NAMESPACE::EventLoggerStream">
+<area shape="rect" id="node1" title=" " alt="" coords="1283,183,1464,224"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1LogBuffer.html" title=" " alt="" coords="969,104,1151,145"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1autovector.html" title=" " alt="" coords="676,5,857,76"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Arena.html" title=" " alt="" coords="676,100,857,141"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Allocator.html" title=" " alt="" coords="389,76,571,117"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1AllocTracker.html" title=" " alt="" coords="389,141,571,183"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1WriteBufferManager.html" title=" " alt="" coords="5,141,187,183"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Logger.html" title=" " alt="" coords="676,171,857,212"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1JSONWriter.html" title=" " alt="" coords="969,252,1151,293"/>
+</map>

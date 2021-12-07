@@ -1,0 +1,5 @@
+<map id="ffd::ConfigSubsectionGuard" name="ffd::ConfigSubsectionGuard">
+<area shape="rect" id="node1" title="Use this to switch to a certain config subsection to get a group of values." alt="" coords="5,199,204,225"/>
+<area shape="rect" id="node2" href="$classffd_1_1ConfigParser.html" title="Main configuration parser class to inherit from in your code." alt="" coords="41,109,169,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,5,134,32"/>
+</map>

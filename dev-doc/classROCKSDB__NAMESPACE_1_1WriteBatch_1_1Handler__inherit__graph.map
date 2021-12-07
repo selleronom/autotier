@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::WriteBatch::Handler" name="ROCKSDB_NAMESPACE::WriteBatch::Handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,187,241"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1blob__db_1_1BlobDBImpl_1_1BlobInserter.html" title=" " alt="" coords="263,5,445,61"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1DBImplSecondary_1_1ColumnFamilyCollector.html" title=" " alt="" coords="235,85,473,141"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1MemTableInserter.html" title=" " alt="" coords="263,166,445,207"/>
+<area shape="rect" id="node5" href="$structROCKSDB__NAMESPACE_1_1SubBatchCounter.html" title=" " alt="" coords="263,231,445,273"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1TraceAnalyzer.html" title=" " alt="" coords="263,297,445,338"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1WriteBatchHandlerJniCallback.html" title=" " alt="" coords="245,362,463,403"/>
+</map>

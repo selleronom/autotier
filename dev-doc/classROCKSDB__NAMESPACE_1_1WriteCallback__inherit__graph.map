@@ -1,0 +1,7 @@
+<map id="ROCKSDB_NAMESPACE::WriteCallback" name="ROCKSDB_NAMESPACE::WriteCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,187,145"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1MockWriteCallback.html" title=" " alt="" coords="263,5,445,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1OptimisticTransactionCallback.html" title=" " alt="" coords="245,71,463,112"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1WriteCallbackTestWriteCallback1.html" title=" " alt="" coords="235,136,473,177"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1WriteCallbackTestWriteCallback2.html" title=" " alt="" coords="235,201,473,243"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ROCKSDB_NAMESPACE::FilterPolicy" name="ROCKSDB_NAMESPACE::FilterPolicy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,187,98"/>
+<area shape="rect" id="node2" href="$structrocksdb__filterpolicy__t.html" title=" " alt="" coords="245,5,406,32"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1BuiltinFilterPolicy.html" title=" " alt="" coords="235,57,416,98"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1TestHashFilter.html" title=" " alt="" coords="235,122,416,163"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1BloomFilterPolicy.html" title=" " alt="" coords="470,23,651,65"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1LevelThresholdFilterPolicy.html" title=" " alt="" coords="464,89,657,130"/>
+</map>

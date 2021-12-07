@@ -1,0 +1,9 @@
+<map id="org.rocksdb.WriteBatch.Handler" name="org.rocksdb.WriteBatch.Handler">
+<area shape="rect" id="node1" title=" " alt="" coords="95,348,325,375"/>
+<area shape="rect" id="node6" href="$classorg_1_1rocksdb_1_1util_1_1CapturingWriteBatchHandler.html" title=" " alt="" coords="5,423,196,464"/>
+<area shape="rect" id="node7" href="$classorg_1_1rocksdb_1_1util_1_1WriteBatchGetter.html" title=" " alt="" coords="220,423,419,464"/>
+<area shape="rect" id="node2" href="$classorg_1_1rocksdb_1_1RocksCallbackObject.html" title=" " alt="" coords="111,259,309,300"/>
+<area shape="rect" id="node3" href="$classorg_1_1rocksdb_1_1AbstractImmutableNativeReference.html" title=" " alt="" coords="97,169,323,211"/>
+<area shape="rect" id="node4" href="$classorg_1_1rocksdb_1_1AbstractNativeReference.html" title=" " alt="" coords="111,80,309,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="152,5,268,32"/>
+</map>

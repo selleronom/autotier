@@ -1,0 +1,8 @@
+<map id="ROCKSDB_NAMESPACE::PessimisticTransaction" name="ROCKSDB_NAMESPACE::PessimisticTransaction">
+<area shape="rect" id="node1" title=" " alt="" coords="108,184,289,225"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1WriteCommittedTxn.html" title=" " alt="" coords="5,273,187,315"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1WritePreparedTxn.html" title=" " alt="" coords="211,273,392,315"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1TransactionBaseImpl.html" title=" " alt="" coords="108,95,289,136"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Transaction.html" title=" " alt="" coords="108,5,289,47"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1WriteUnpreparedTxn.html" title=" " alt="" coords="211,363,392,404"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ROCKSDB_NAMESPACE::BlockBasedTableBuilder::ParallelCompressionRep" name="ROCKSDB_NAMESPACE::BlockBasedTableBuilder::ParallelCompressionRep">
+<area shape="rect" id="node1" title=" " alt="" coords="405,93,593,149"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1BlockBasedTableBuilder_1_1ParallelCompressionRep_1_1FileSizeEstimator.html" title=" " alt="" coords="23,5,211,76"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1WorkQueue.html" title=" " alt="" coords="5,100,229,141"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1WorkQueue.html" title=" " alt="" coords="18,165,217,207"/>
+</map>

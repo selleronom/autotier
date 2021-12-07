@@ -1,0 +1,8 @@
+<map id="ROCKSDB_NAMESPACE::BackupEngineImpl::BackupMeta" name="ROCKSDB_NAMESPACE::BackupEngineImpl::BackupMeta">
+<area shape="rect" id="node1" title=" " alt="" coords="149,317,379,359"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="5,221,211,247"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1ThreadStatusUpdater.html" title=" " alt="" coords="17,109,199,151"/>
+<area shape="rect" id="node4" href="$structROCKSDB__NAMESPACE_1_1ThreadStatusData.html" title=" " alt="" coords="17,5,199,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="235,221,293,247"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1IOOptions.html" title=" " alt="" coords="317,213,499,255"/>
+</map>

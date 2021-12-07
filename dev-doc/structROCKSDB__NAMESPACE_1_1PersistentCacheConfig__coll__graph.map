@@ -1,0 +1,10 @@
+<map id="ROCKSDB_NAMESPACE::PersistentCacheConfig" name="ROCKSDB_NAMESPACE::PersistentCacheConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="235,317,416,359"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="5,221,211,247"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1ThreadStatusUpdater.html" title=" " alt="" coords="17,109,199,151"/>
+<area shape="rect" id="node4" href="$structROCKSDB__NAMESPACE_1_1ThreadStatusData.html" title=" " alt="" coords="17,5,199,47"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1SystemClock.html" title=" " alt="" coords="235,213,416,255"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="235,109,416,151"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="235,5,416,47"/>
+<area shape="rect" id="node8" title=" " alt="" coords="440,221,499,247"/>
+</map>

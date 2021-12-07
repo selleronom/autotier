@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::IteratorTraceExecutionResult" name="ROCKSDB_NAMESPACE::IteratorTraceExecutionResult">
+<area shape="rect" id="node1" title=" " alt="" coords="889,71,1097,112"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1TraceExecutionResult.html" title=" " alt="" coords="608,5,789,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1TraceRecordResult.html" title=" " alt="" coords="297,5,479,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="608,71,789,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1PinnableSlice.html" title=" " alt="" coords="608,136,789,177"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="297,71,479,112"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="297,136,479,177"/>
+<area shape="rect" id="node8" href="$structROCKSDB__NAMESPACE_1_1Cleanable_1_1Cleanup.html" title=" " alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node9" title=" " alt="" coords="359,202,417,229"/>
+</map>

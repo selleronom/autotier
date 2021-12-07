@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::WriteBatchEntryComparator" name="ROCKSDB_NAMESPACE::WriteBatchEntryComparator">
+<area shape="rect" id="node1" title=" " alt="" coords="948,72,1153,113"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Comparator.html" title=" " alt="" coords="579,39,760,80"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="348,23,529,64"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1ReadableWriteBatch.html" title=" " alt="" coords="579,104,760,145"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1WriteBatch.html" title=" " alt="" coords="348,104,529,145"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1WriteBatchBase.html" title=" " alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node8" href="$structROCKSDB__NAMESPACE_1_1SavePoint.html" title=" " alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node9" title=" " alt="" coords="67,202,125,229"/>
+</map>

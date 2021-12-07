@@ -1,0 +1,13 @@
+<map id="org.rocksdb.BackupableDBOptions" name="org.rocksdb.BackupableDBOptions">
+<area shape="rect" id="node1" title=" " alt="" coords="1524,105,1771,132"/>
+<area shape="rect" id="node2" href="$classorg_1_1rocksdb_1_1RocksObject.html" title=" " alt="" coords="815,87,997,113"/>
+<area shape="rect" id="node7" href="$classorg_1_1rocksdb_1_1RateLimiter.html" title=" " alt="" coords="1171,32,1349,59"/>
+<area shape="rect" id="node11" href="$classorg_1_1rocksdb_1_1Env.html" title=" " alt="" coords="1197,172,1323,199"/>
+<area shape="rect" id="node3" href="$classorg_1_1rocksdb_1_1AbstractImmutableNativeReference.html" title=" " alt="" coords="523,139,749,181"/>
+<area shape="rect" id="node10" href="$classorg_1_1rocksdb_1_1RocksCallbackObject.html" title=" " alt="" coords="807,167,1005,209"/>
+<area shape="rect" id="node4" href="$classorg_1_1rocksdb_1_1AbstractNativeReference.html" title=" " alt="" coords="171,98,369,139"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,105,121,132"/>
+<area shape="rect" id="node6" title=" " alt="" coords="209,164,331,191"/>
+<area shape="rect" id="node8" href="$enumorg_1_1rocksdb_1_1RateLimiterMode.html" title=" " alt="" coords="799,5,1013,32"/>
+<area shape="rect" id="node9" href="$classorg_1_1rocksdb_1_1Logger.html" title=" " alt="" coords="1187,223,1333,249"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::CacheEntryStatsCollector&lt; Stats &gt;" name="ROCKSDB_NAMESPACE::CacheEntryStatsCollector&lt; Stats &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="876,63,1063,119"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Cache.html" title=" " alt="" coords="544,5,725,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1SystemClock.html" title=" " alt="" coords="544,71,725,112"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="279,71,460,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Stats.html" title=" " alt="" coords="544,136,725,177"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1HistogramImpl.html" title=" " alt="" coords="279,136,460,177"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Histogram.html" title=" " alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node9" href="$structROCKSDB__NAMESPACE_1_1HistogramStat.html" title=" " alt="" coords="5,201,187,243"/>
+</map>

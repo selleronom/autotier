@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::FdWithKeyRange" name="ROCKSDB_NAMESPACE::FdWithKeyRange">
+<area shape="rect" id="node1" title=" " alt="" coords="1012,284,1193,325"/>
+<area shape="rect" id="node2" href="$structROCKSDB__NAMESPACE_1_1FileMetaData.html" title=" " alt="" coords="688,172,869,213"/>
+<area shape="rect" id="node3" href="$structROCKSDB__NAMESPACE_1_1FileSampledStats.html" title=" " alt="" coords="321,5,503,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1InternalKey.html" title=" " alt="" coords="321,149,503,191"/>
+<area shape="rect" id="node5" title=" " alt="" coords="67,105,125,131"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1Cache_1_1Handle.html" title=" " alt="" coords="321,215,503,256"/>
+<area shape="rect" id="node7" href="$structROCKSDB__NAMESPACE_1_1FileDescriptor.html" title=" " alt="" coords="321,281,503,323"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1TableReader.html" title=" " alt="" coords="5,281,187,323"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="688,353,869,395"/>
+</map>

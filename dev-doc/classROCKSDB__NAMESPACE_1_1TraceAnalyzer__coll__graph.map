@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::TraceAnalyzer" name="ROCKSDB_NAMESPACE::TraceAnalyzer">
+<area shape="rect" id="node1" title=" " alt="" coords="1115,163,1296,204"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1TraceRecord_1_1Handler.html" title=" " alt="" coords="771,5,952,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1WriteBatch_1_1Handler.html" title=" " alt="" coords="771,71,952,112"/>
+<area shape="rect" id="node4" href="$structROCKSDB__NAMESPACE_1_1EnvOptions.html" title=" " alt="" coords="771,136,952,177"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1RateLimiter.html" title=" " alt="" coords="372,133,553,175"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="759,202,964,229"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1ThreadStatusUpdater.html" title=" " alt="" coords="372,199,553,240"/>
+<area shape="rect" id="node8" href="$structROCKSDB__NAMESPACE_1_1ThreadStatusData.html" title=" " alt="" coords="5,199,187,240"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1AnalyzerOptions.html" title=" " alt="" coords="771,253,952,295"/>
+<area shape="rect" id="node10" title=" " alt="" coords="832,319,891,346"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="File" name="File">
+<area shape="rect" id="node1" title="File object to represent a file in the autotier filesystem." alt="" coords="137,263,182,289"/>
+<area shape="rect" id="node2" href="$classTier.html" title="Class to represent each tier in the filesystem." alt="" coords="136,173,183,200"/>
+<area shape="rect" id="node3" href="$classffd_1_1Bytes.html" title="Use this class for byte&#45;formatted values. e.g.: &quot;123 KiB&quot;." alt="" coords="5,5,89,32"/>
+<area shape="rect" id="node4" href="$classffd_1_1Quota.html" title="This class extends ffd::Bytes to specify percents of an amount of bytes." alt="" coords="153,83,240,109"/>
+<area shape="rect" id="node5" title=" " alt="" coords="265,83,323,109"/>
+<area shape="rect" id="node6" href="$classMetadata.html" title="File metadata to be stored in and retrieved from the RocksDB database." alt="" coords="229,173,313,200"/>
+</map>

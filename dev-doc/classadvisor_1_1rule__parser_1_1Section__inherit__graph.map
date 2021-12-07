@@ -1,0 +1,10 @@
+<map id="advisor.rule_parser.Section" name="advisor.rule_parser.Section">
+<area shape="rect" id="node1" title=" " alt="" coords="103,115,300,141"/>
+<area shape="rect" id="node3" href="$classadvisor_1_1rule__parser_1_1Condition.html" title=" " alt="" coords="353,64,564,91"/>
+<area shape="rect" id="node7" href="$classadvisor_1_1rule__parser_1_1Rule.html" title=" " alt="" coords="369,115,548,141"/>
+<area shape="rect" id="node8" href="$classadvisor_1_1rule__parser_1_1Suggestion.html" title=" " alt="" coords="348,165,569,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,115,55,141"/>
+<area shape="rect" id="node4" href="$classadvisor_1_1rule__parser_1_1LogCondition.html" title=" " alt="" coords="617,5,852,32"/>
+<area shape="rect" id="node5" href="$classadvisor_1_1rule__parser_1_1OptionCondition.html" title=" " alt="" coords="639,57,831,98"/>
+<area shape="rect" id="node6" href="$classadvisor_1_1rule__parser_1_1TimeSeriesCondition.html" title=" " alt="" coords="643,122,826,163"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb_backup_engine_t" name="rocksdb_backup_engine_t">
+<area shape="rect" id="node1" title=" " alt="" coords="533,46,723,73"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1BackupEngine.html" title=" " alt="" coords="279,39,460,80"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1BackupEngineReadOnlyBase.html" title=" " alt="" coords="13,5,221,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1BackupEngineAppendOnlyBase.html" title=" " alt="" coords="5,71,229,112"/>
+</map>

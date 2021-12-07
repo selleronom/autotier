@@ -1,0 +1,5 @@
+<map id="ffd::QuotaParseException" name="ffd::QuotaParseException">
+<area shape="rect" id="node1" title="Throw this exception when Quota::parse_fraction() fails to parse string." alt="" coords="5,171,191,197"/>
+<area shape="rect" id="node2" href="$classffd_1_1Exception.html" title="Exceptions thrown by this library." alt="" coords="128,95,239,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,5,110,32"/>
+</map>

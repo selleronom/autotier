@@ -1,0 +1,11 @@
+<map id="org.rocksdb.TableFileCreationInfo" name="org.rocksdb.TableFileCreationInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="795,97,1033,123"/>
+<area shape="rect" id="node2" href="$classorg_1_1rocksdb_1_1TableFileCreationBriefInfo.html" title=" " alt="" coords="428,19,643,60"/>
+<area shape="rect" id="node3" href="$enumorg_1_1rocksdb_1_1TableFileCreationReason.html" title=" " alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1rocksdb_1_1Status.html" title=" " alt="" coords="464,97,607,123"/>
+<area shape="rect" id="node5" href="$enumorg_1_1rocksdb_1_1Status_1_1SubCode.html" title=" " alt="" coords="11,71,215,98"/>
+<area shape="rect" id="node6" href="$enumorg_1_1rocksdb_1_1Status_1_1Code.html" title=" " alt="" coords="23,122,203,149"/>
+<area shape="rect" id="node7" href="$classorg_1_1rocksdb_1_1TableProperties.html" title=" " alt="" coords="434,173,637,199"/>
+<area shape="rect" id="node8" title=" " alt="" coords="34,173,191,199"/>
+<area shape="rect" id="node9" title=" " alt="" coords="31,233,195,259"/>
+</map>

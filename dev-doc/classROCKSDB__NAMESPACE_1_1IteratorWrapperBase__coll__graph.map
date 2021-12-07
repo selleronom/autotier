@@ -1,0 +1,8 @@
+<map id="ROCKSDB_NAMESPACE::IteratorWrapperBase&lt; TValue &gt;" name="ROCKSDB_NAMESPACE::IteratorWrapperBase&lt; TValue &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="108,332,289,388"/>
+<area shape="rect" id="node2" href="$structROCKSDB__NAMESPACE_1_1IterateResult.html" title=" " alt="" coords="5,221,187,262"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="5,109,187,151"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1InternalIteratorBase.html" title=" " alt="" coords="211,213,392,269"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="211,109,392,151"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1Cleanable_1_1Cleanup.html" title=" " alt="" coords="211,5,392,47"/>
+</map>

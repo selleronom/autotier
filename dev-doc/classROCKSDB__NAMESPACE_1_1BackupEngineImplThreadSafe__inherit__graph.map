@@ -1,0 +1,7 @@
+<map id="ROCKSDB_NAMESPACE::BackupEngineImplThreadSafe" name="ROCKSDB_NAMESPACE::BackupEngineImplThreadSafe">
+<area shape="rect" id="node1" title=" " alt="" coords="507,39,723,80"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1BackupEngine.html" title=" " alt="" coords="277,5,459,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1BackupEngineReadOnlyBase.html" title=" " alt="" coords="13,71,221,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1BackupEngineReadOnly.html" title=" " alt="" coords="277,71,459,112"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1BackupEngineAppendOnlyBase.html" title=" " alt="" coords="5,5,229,47"/>
+</map>

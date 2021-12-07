@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::LogReaderContainer" name="ROCKSDB_NAMESPACE::LogReaderContainer">
+<area shape="rect" id="node1" title=" " alt="" coords="921,56,1103,97"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1log_1_1Reader_1_1Reporter.html" title=" " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1log_1_1Reader.html" title=" " alt="" coords="299,56,480,97"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="623,121,804,163"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1log_1_1FragmentBufferedReader.html" title=" " alt="" coords="607,56,820,97"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="5,77,187,119"/>
+<area shape="rect" id="node7" title=" " alt="" coords="360,122,419,149"/>
+</map>

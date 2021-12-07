@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::FSSequentialFile" name="ROCKSDB_NAMESPACE::FSSequentialFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,187,211"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1EncryptedSequentialFile.html" title=" " alt="" coords="239,5,420,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFileWrapper.html" title=" " alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1log_1_1LogTest_1_1StringSource.html" title=" " alt="" coords="235,136,424,177"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1port_1_1WinSequentialFile.html" title=" " alt="" coords="239,201,420,243"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1PosixSequentialFile.html" title=" " alt="" coords="239,267,420,308"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1test_1_1SeqStringSource.html" title=" " alt="" coords="239,332,420,373"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFileOwnerWrapper.html" title=" " alt="" coords="472,71,699,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFileTracingWrapper.html" title=" " alt="" coords="747,37,977,79"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1TestFSSequentialFile.html" title=" " alt="" coords="771,103,953,144"/>
+</map>

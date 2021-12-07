@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::WritePreparedTxnDB" name="ROCKSDB_NAMESPACE::WritePreparedTxnDB">
+<area shape="rect" id="node1" title=" " alt="" coords="117,348,298,389"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1WritePreparedTxnDBMock.html" title=" " alt="" coords="5,437,199,479"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1WriteUnpreparedTxnDB.html" title=" " alt="" coords="223,437,405,479"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1PessimisticTransactionDB.html" title=" " alt="" coords="113,259,302,300"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1TransactionDB.html" title=" " alt="" coords="117,169,298,211"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1StackableDB.html" title=" " alt="" coords="117,80,298,121"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1DB.html" title=" " alt="" coords="107,5,307,32"/>
+</map>

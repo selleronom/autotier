@@ -1,0 +1,6 @@
+<map id="ROCKSDB_NAMESPACE::DBBasicTestMultiGet::MyFlushBlockPolicyFactory" name="ROCKSDB_NAMESPACE::DBBasicTestMultiGet::MyFlushBlockPolicyFactory">
+<area shape="rect" id="node1" title=" " alt="" coords="5,273,212,329"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1FlushBlockPolicyFactory.html" title=" " alt="" coords="18,184,199,225"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="18,95,199,136"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="18,5,199,47"/>
+</map>

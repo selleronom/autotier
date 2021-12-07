@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classROCKSDB__NAMESPACE_1_1PreReleaseCallback.html" title=" " alt="" coords="5,119,187,160"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1AddPreparedCallback.html" title=" " alt="" coords="266,5,447,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1WritePreparedCommitEntryPreReleaseCallback.html" title=" " alt="" coords="245,71,468,127"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1WritePreparedRollbackPreReleaseCallback.html" title=" " alt="" coords="235,151,479,207"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1WriteUnpreparedCommitEntryPreReleaseCallback.html" title=" " alt="" coords="247,231,466,287"/>
+</map>

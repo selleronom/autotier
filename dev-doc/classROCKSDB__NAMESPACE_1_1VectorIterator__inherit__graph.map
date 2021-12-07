@@ -1,0 +1,7 @@
+<map id="ROCKSDB_NAMESPACE::VectorIterator" name="ROCKSDB_NAMESPACE::VectorIterator">
+<area shape="rect" id="node1" title=" " alt="" coords="403,39,584,80"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1BoundsCheckingVectorIterator.html" title=" " alt="" coords="632,5,851,47"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1LoggingForwardVectorIterator.html" title=" " alt="" coords="634,71,849,112"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1InternalIteratorBase.html" title=" " alt="" coords="235,46,355,73"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="5,39,187,80"/>
+</map>

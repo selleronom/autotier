@@ -1,0 +1,10 @@
+<map id="ROCKSDB_NAMESPACE::BlockPrefixIndex::Builder" name="ROCKSDB_NAMESPACE::BlockPrefixIndex::Builder">
+<area shape="rect" id="node1" title=" " alt="" coords="1077,104,1263,145"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Arena.html" title=" " alt="" coords="676,71,857,112"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Allocator.html" title=" " alt="" coords="389,5,571,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1AllocTracker.html" title=" " alt="" coords="389,71,571,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1WriteBufferManager.html" title=" " alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1SliceTransform.html" title=" " alt="" coords="676,136,857,177"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="389,136,571,177"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,136,187,177"/>
+</map>

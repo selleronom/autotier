@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::BackupEngineImpl::CopyOrCreateWorkItem" name="ROCKSDB_NAMESPACE::BackupEngineImpl::CopyOrCreateWorkItem">
+<area shape="rect" id="node1" title=" " alt="" coords="1188,111,1429,167"/>
+<area shape="rect" id="node2" href="$structROCKSDB__NAMESPACE_1_1EnvOptions.html" title=" " alt="" coords="771,59,952,101"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1RateLimiter.html" title=" " alt="" coords="372,15,553,57"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="759,125,964,152"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1ThreadStatusUpdater.html" title=" " alt="" coords="372,118,553,159"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1ThreadStatusData.html" title=" " alt="" coords="5,118,187,159"/>
+<area shape="rect" id="node7" title=" " alt="" coords="832,259,891,285"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Statistics.html" title=" " alt="" coords="771,310,952,351"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="372,310,553,351"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,310,187,351"/>
+</map>

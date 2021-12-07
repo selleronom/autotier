@@ -1,0 +1,7 @@
+<map id="ROCKSDB_NAMESPACE::BlockBasedTable::IndexReader" name="ROCKSDB_NAMESPACE::BlockBasedTable::IndexReader">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,228,112"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1BlockBasedTable_1_1IndexReaderCommon.html" title=" " alt="" coords="276,63,499,119"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1BinarySearchIndexReader.html" title=" " alt="" coords="547,5,737,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1HashIndexReader.html" title=" " alt="" coords="551,71,733,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1PartitionIndexReader.html" title=" " alt="" coords="551,136,733,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="std::lock_guard&lt; ::folly::detail::distributed_mutex::DistributedMutex&lt; Atom, TimePublishing &gt; &gt;" name="std::lock_guard&lt; ::folly::detail::distributed_mutex::DistributedMutex&lt; Atom, TimePublishing &gt; &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="643,5,853,76"/>
+<area shape="rect" id="node2" href="$classfolly_1_1detail_1_1ProxyLockableLockGuard.html" title=" " alt="" coords="324,5,595,76"/>
+<area shape="rect" id="node3" href="$classfolly_1_1detail_1_1ProxyLockableUniqueLock.html" title=" " alt="" coords="5,5,276,76"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ffd::ConfigGuardException" name="ffd::ConfigGuardException">
+<area shape="rect" id="node1" title="Throw this exception when a ConfigGuard is constructed or get_from() is called when the config is alr..." alt="" coords="5,247,196,273"/>
+<area shape="rect" id="node2" href="$classffd_1_1ConfigException.html" title="General exception for all Config* related issues." alt="" coords="25,171,177,197"/>
+<area shape="rect" id="node3" href="$classffd_1_1Exception.html" title="Exceptions thrown by this library." alt="" coords="45,95,156,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="71,5,130,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ROCKSDB_NAMESPACE::PersistentCacheTier" name="ROCKSDB_NAMESPACE::PersistentCacheTier">
+<area shape="rect" id="node1" title=" " alt="" coords="235,71,416,112"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1BlockCacheTier.html" title=" " alt="" coords="464,5,645,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1PersistentTieredCache.html" title=" " alt="" coords="464,71,645,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1VolatileCacheTier.html" title=" " alt="" coords="464,136,645,177"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1PersistentCache.html" title=" " alt="" coords="5,71,187,112"/>
+</map>

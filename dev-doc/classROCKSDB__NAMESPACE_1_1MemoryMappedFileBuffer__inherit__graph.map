@@ -1,0 +1,5 @@
+<map id="ROCKSDB_NAMESPACE::MemoryMappedFileBuffer" name="ROCKSDB_NAMESPACE::MemoryMappedFileBuffer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1port_1_1WinMemoryMappedBuffer.html" title=" " alt="" coords="244,5,471,47"/>
+<area shape="rect" id="node3" href="$structROCKSDB__NAMESPACE_1_1PosixMemoryMappedFileBuffer.html" title=" " alt="" coords="245,71,470,112"/>
+</map>

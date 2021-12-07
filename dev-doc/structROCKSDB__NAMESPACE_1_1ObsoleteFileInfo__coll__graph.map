@@ -1,0 +1,10 @@
+<map id="ROCKSDB_NAMESPACE::ObsoleteFileInfo" name="ROCKSDB_NAMESPACE::ObsoleteFileInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="985,58,1167,99"/>
+<area shape="rect" id="node2" href="$structROCKSDB__NAMESPACE_1_1FileMetaData.html" title=" " alt="" coords="688,173,869,214"/>
+<area shape="rect" id="node3" href="$structROCKSDB__NAMESPACE_1_1FileSampledStats.html" title=" " alt="" coords="321,55,503,97"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1InternalKey.html" title=" " alt="" coords="321,121,503,162"/>
+<area shape="rect" id="node5" title=" " alt="" coords="67,128,125,155"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1Cache_1_1Handle.html" title=" " alt="" coords="321,330,503,371"/>
+<area shape="rect" id="node7" href="$structROCKSDB__NAMESPACE_1_1FileDescriptor.html" title=" " alt="" coords="321,265,503,306"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1TableReader.html" title=" " alt="" coords="5,265,187,306"/>
+</map>

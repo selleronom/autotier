@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::ComparatorJniCallback" name="ROCKSDB_NAMESPACE::ComparatorJniCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="813,104,995,145"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1JniCallback.html" title=" " alt="" coords="487,5,668,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Comparator.html" title=" " alt="" coords="487,71,668,112"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="236,71,417,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1ThreadLocalPtr.html" title=" " alt="" coords="487,136,668,177"/>
+<area shape="rect" id="node7" href="$structROCKSDB__NAMESPACE_1_1ComparatorJniCallbackOptions.html" title=" " alt="" coords="467,201,688,243"/>
+</map>

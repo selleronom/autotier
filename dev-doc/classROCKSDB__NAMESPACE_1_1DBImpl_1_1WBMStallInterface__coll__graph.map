@@ -1,0 +1,6 @@
+<map id="ROCKSDB_NAMESPACE::DBImpl::WBMStallInterface" name="ROCKSDB_NAMESPACE::DBImpl::WBMStallInterface">
+<area shape="rect" id="node1" title=" " alt="" coords="564,65,763,107"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1StallInterface.html" title=" " alt="" coords="268,5,449,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1port_1_1CondVar.html" title=" " alt="" coords="268,135,449,176"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1port_1_1Mutex.html" title=" " alt="" coords="5,100,187,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rocksdb_readoptions_t" name="rocksdb_readoptions_t">
+<area shape="rect" id="node1" title=" " alt="" coords="185,257,354,284"/>
+<area shape="rect" id="node2" href="$structROCKSDB__NAMESPACE_1_1ReadOptions.html" title=" " alt="" coords="100,153,281,195"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Snapshot.html" title=" " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="233,5,415,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ROCKSDB_NAMESPACE::TablePropertiesCollectorFactory" name="ROCKSDB_NAMESPACE::TablePropertiesCollectorFactory">
+<area shape="rect" id="node1" title=" " alt="" coords="464,333,691,374"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1BlockCountingTablePropertiesCollectorFactory.html" title=" " alt="" coords="750,5,966,61"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1CompactOnDeletionCollectorFactory.html" title=" " alt="" coords="753,85,963,141"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1CountingDeleteTabPropCollectorFactory.html" title=" " alt="" coords="742,165,974,221"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1CountingUserTblPropCollectorFactory.html" title=" " alt="" coords="749,245,967,301"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1DbStressTablePropertiesCollectorFactory.html" title=" " alt="" coords="739,325,977,381"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1RegularKeysStartWithAFactory.html" title=" " alt="" coords="748,406,968,447"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1SstFileWriterCollectorFactory.html" title=" " alt="" coords="753,471,963,513"/>
+<area shape="rect" id="node11" href="$classROCKSDB__NAMESPACE_1_1TestPropertiesCollectorFactory.html" title=" " alt="" coords="749,537,967,578"/>
+<area shape="rect" id="node12" href="$classROCKSDB__NAMESPACE_1_1TestTablePropertiesCollectorFactory.html" title=" " alt="" coords="755,603,961,659"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="235,333,416,374"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,333,187,374"/>
+</map>

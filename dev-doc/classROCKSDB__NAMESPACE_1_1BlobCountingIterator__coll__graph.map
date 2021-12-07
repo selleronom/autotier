@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::BlobCountingIterator" name="ROCKSDB_NAMESPACE::BlobCountingIterator">
+<area shape="rect" id="node1" title=" " alt="" coords="903,127,1084,168"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1InternalIteratorBase.html" title=" " alt="" coords="559,18,679,45"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="297,44,479,85"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1InternalIteratorBase.html" title=" " alt="" coords="528,69,709,125"/>
+<area shape="rect" id="node4" href="$structROCKSDB__NAMESPACE_1_1Cleanable_1_1Cleanup.html" title=" " alt="" coords="5,44,187,85"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="528,149,709,191"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1BlobGarbageMeter.html" title=" " alt="" coords="528,215,709,256"/>
+</map>

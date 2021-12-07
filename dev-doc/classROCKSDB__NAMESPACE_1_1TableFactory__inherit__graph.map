@@ -1,0 +1,11 @@
+<map id="ROCKSDB_NAMESPACE::TableFactory" name="ROCKSDB_NAMESPACE::TableFactory">
+<area shape="rect" id="node1" title=" " alt="" coords="464,136,645,177"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1AdaptiveTableFactory.html" title=" " alt="" coords="694,5,875,47"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1BlockBasedTableFactory.html" title=" " alt="" coords="694,71,875,112"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1CuckooTableFactory.html" title=" " alt="" coords="694,136,875,177"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1mock_1_1MockTableFactory.html" title=" " alt="" coords="693,201,876,243"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1PlainTableFactory.html" title=" " alt="" coords="694,267,875,308"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="235,136,416,177"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1TestPlainTableFactory.html" title=" " alt="" coords="924,267,1105,308"/>
+</map>

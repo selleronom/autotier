@@ -1,0 +1,6 @@
+<map id="ffd::SocketConnectException" name="ffd::SocketConnectException">
+<area shape="rect" id="node1" title="Thrown when connect() fails." alt="" coords="5,247,212,273"/>
+<area shape="rect" id="node2" href="$classffd_1_1SocketException.html" title="General exception for all Socket* related issues." alt="" coords="31,171,186,197"/>
+<area shape="rect" id="node3" href="$classffd_1_1Exception.html" title="Exceptions thrown by this library." alt="" coords="53,95,164,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="79,5,138,32"/>
+</map>

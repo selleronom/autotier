@@ -1,0 +1,10 @@
+<map id="org.rocksdb.StatsCollectorInput" name="org.rocksdb.StatsCollectorInput">
+<area shape="rect" id="node1" title=" " alt="" coords="84,456,277,497"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1rocksdb_1_1StatisticsCollectorCallback.html" title=" " alt="" coords="5,352,225,393"/>
+<area shape="rect" id="node3" href="$classorg_1_1rocksdb_1_1Statistics.html" title=" " alt="" coords="250,359,413,386"/>
+<area shape="rect" id="node4" href="$classorg_1_1rocksdb_1_1RocksObject.html" title=" " alt="" coords="240,276,423,303"/>
+<area shape="rect" id="node5" href="$classorg_1_1rocksdb_1_1AbstractImmutableNativeReference.html" title=" " alt="" coords="218,185,445,227"/>
+<area shape="rect" id="node6" href="$classorg_1_1rocksdb_1_1AbstractNativeReference.html" title=" " alt="" coords="140,81,339,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="181,5,297,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="363,89,484,115"/>
+</map>

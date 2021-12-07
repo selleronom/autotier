@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::SequentialFileReader" name="ROCKSDB_NAMESPACE::SequentialFileReader">
+<area shape="rect" id="node1" title=" " alt="" coords="351,512,532,553"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFilePtr.html" title=" " alt="" coords="281,408,463,449"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFileTracingWrapper.html" title=" " alt="" coords="233,304,463,345"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFileOwnerWrapper.html" title=" " alt="" coords="5,200,232,241"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFileWrapper.html" title=" " alt="" coords="27,109,211,151"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1FSSequentialFile.html" title=" " alt="" coords="35,5,216,47"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1SystemClock.html" title=" " alt="" coords="256,200,437,241"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="256,109,437,151"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="256,5,437,47"/>
+<area shape="rect" id="node10" title=" " alt="" coords="475,207,533,234"/>
+</map>

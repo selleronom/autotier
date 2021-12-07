@@ -1,0 +1,7 @@
+<map id="ROCKSDB_NAMESPACE::CompactionPicker" name="ROCKSDB_NAMESPACE::CompactionPicker">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,187,145"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1FIFOCompactionPicker.html" title=" " alt="" coords="245,5,426,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1LevelCompactionPicker.html" title=" " alt="" coords="245,71,426,112"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1NullCompactionPicker.html" title=" " alt="" coords="245,136,426,177"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1UniversalCompactionPicker.html" title=" " alt="" coords="235,201,436,243"/>
+</map>

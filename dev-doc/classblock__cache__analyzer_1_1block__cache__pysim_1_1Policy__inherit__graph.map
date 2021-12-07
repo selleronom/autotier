@@ -1,0 +1,9 @@
+<map id="block_cache_analyzer.block_cache_pysim.Policy" name="block_cache_analyzer.block_cache_pysim.Policy">
+<area shape="rect" id="node1" title=" " alt="" coords="116,136,319,177"/>
+<area shape="rect" id="node3" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1CostClassPolicy.html" title=" " alt="" coords="369,5,591,47"/>
+<area shape="rect" id="node4" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1HyperbolicPolicy.html" title=" " alt="" coords="367,71,593,112"/>
+<area shape="rect" id="node5" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1LFUPolicy.html" title=" " alt="" coords="379,136,581,177"/>
+<area shape="rect" id="node6" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1LRUPolicy.html" title=" " alt="" coords="379,201,581,243"/>
+<area shape="rect" id="node7" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1MRUPolicy.html" title=" " alt="" coords="379,267,581,308"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,143,68,170"/>
+</map>

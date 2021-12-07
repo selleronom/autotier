@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::TestEnv::TestLogger" name="ROCKSDB_NAMESPACE::TestEnv::TestLogger">
+<area shape="rect" id="node1" title=" " alt="" coords="67,497,248,539"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Logger.html" title=" " alt="" coords="5,393,187,435"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1TestEnv.html" title=" " alt="" coords="211,393,392,435"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1EnvWrapper.html" title=" " alt="" coords="211,303,392,344"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="199,213,404,240"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1ThreadStatusUpdater.html" title=" " alt="" coords="211,109,392,151"/>
+<area shape="rect" id="node7" href="$structROCKSDB__NAMESPACE_1_1ThreadStatusData.html" title=" " alt="" coords="211,5,392,47"/>
+</map>

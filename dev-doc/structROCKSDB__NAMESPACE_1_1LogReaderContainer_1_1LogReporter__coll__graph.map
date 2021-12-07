@@ -1,0 +1,10 @@
+<map id="ROCKSDB_NAMESPACE::LogReaderContainer::LogReporter" name="ROCKSDB_NAMESPACE::LogReaderContainer::LogReporter">
+<area shape="rect" id="node1" title=" " alt="" coords="1069,115,1251,171"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1log_1_1Reader_1_1Reporter.html" title=" " alt="" coords="771,5,952,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Env.html" title=" " alt="" coords="759,71,964,98"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1ThreadStatusUpdater.html" title=" " alt="" coords="372,64,553,105"/>
+<area shape="rect" id="node5" href="$structROCKSDB__NAMESPACE_1_1ThreadStatusData.html" title=" " alt="" coords="5,64,187,105"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="771,123,952,164"/>
+<area shape="rect" id="node7" title=" " alt="" coords="832,189,891,215"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Logger.html" title=" " alt="" coords="771,240,952,281"/>
+</map>

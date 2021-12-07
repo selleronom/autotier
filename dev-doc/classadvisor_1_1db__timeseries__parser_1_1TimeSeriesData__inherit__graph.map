@@ -1,0 +1,8 @@
+<map id="advisor.db_timeseries_parser.TimeSeriesData" name="advisor.db_timeseries_parser.TimeSeriesData">
+<area shape="rect" id="node1" title=" " alt="" coords="349,71,527,112"/>
+<area shape="rect" id="node4" href="$classadvisor_1_1db__stats__fetcher_1_1DatabasePerfContext.html" title=" " alt="" coords="575,5,759,47"/>
+<area shape="rect" id="node5" href="$classadvisor_1_1db__stats__fetcher_1_1LogStatsParser.html" title=" " alt="" coords="575,71,759,112"/>
+<area shape="rect" id="node6" href="$classadvisor_1_1db__stats__fetcher_1_1OdsStatsFetcher.html" title=" " alt="" coords="575,136,759,177"/>
+<area shape="rect" id="node2" href="$classadvisor_1_1db__log__parser_1_1DataSource.html" title=" " alt="" coords="103,71,301,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,78,55,105"/>
+</map>

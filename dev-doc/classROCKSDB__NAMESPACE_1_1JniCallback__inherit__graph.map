@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::JniCallback" name="ROCKSDB_NAMESPACE::JniCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,282,187,323"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1CompactionFilterFactoryJniCallback.html" title=" " alt="" coords="245,5,441,61"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1ComparatorJniCallback.html" title=" " alt="" coords="253,86,434,127"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1EventListenerJniCallback.html" title=" " alt="" coords="252,151,435,193"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1LoggerJniCallback.html" title=" " alt="" coords="253,217,434,258"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1TableFilterJniCallback.html" title=" " alt="" coords="253,282,434,323"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1TraceWriterJniCallback.html" title=" " alt="" coords="253,347,434,389"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1TransactionNotifierJniCallback.html" title=" " alt="" coords="235,413,451,454"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1WalFilterJniCallback.html" title=" " alt="" coords="253,478,434,519"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1WriteBatchHandlerJniCallback.html" title=" " alt="" coords="235,543,452,585"/>
+</map>

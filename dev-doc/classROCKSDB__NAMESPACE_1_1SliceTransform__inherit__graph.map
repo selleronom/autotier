@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::SliceTransform" name="ROCKSDB_NAMESPACE::SliceTransform">
+<area shape="rect" id="node1" title=" " alt="" coords="464,209,645,251"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1FixedOrLessPrefixTransform.html" title=" " alt="" coords="701,5,904,47"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1InternalKeySliceTransform.html" title=" " alt="" coords="707,71,899,112"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1SliceTransformLimitedDomain.html" title=" " alt="" coords="693,136,912,177"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1SliceTransformLimitedDomainGeneric.html" title=" " alt="" coords="693,202,912,258"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1TestPrefixExtractor.html" title=" " alt="" coords="712,283,893,324"/>
+<area shape="rect" id="node9" href="$structrocksdb__slicetransform__t.html" title=" " alt="" coords="709,349,896,375"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="235,209,416,251"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,209,187,251"/>
+<area shape="rect" id="node10" href="$structWrapper.html" title=" " alt="" coords="960,349,1037,375"/>
+</map>

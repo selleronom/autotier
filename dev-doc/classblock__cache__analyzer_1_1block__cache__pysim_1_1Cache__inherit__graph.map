@@ -1,0 +1,12 @@
+<map id="block_cache_analyzer.block_cache_pysim.Cache" name="block_cache_analyzer.block_cache_pysim.Cache">
+<area shape="rect" id="node1" title=" " alt="" coords="116,169,319,211"/>
+<area shape="rect" id="node3" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1ARCCache.html" title=" " alt="" coords="368,5,571,47"/>
+<area shape="rect" id="node4" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1GDSizeCache.html" title=" " alt="" coords="367,71,572,112"/>
+<area shape="rect" id="node5" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1LRUCache.html" title=" " alt="" coords="368,136,571,177"/>
+<area shape="rect" id="node6" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1MLCache.html" title=" " alt="" coords="368,201,571,243"/>
+<area shape="rect" id="node9" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1OPTCache.html" title=" " alt="" coords="368,267,571,308"/>
+<area shape="rect" id="node10" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1TraceCache.html" title=" " alt="" coords="368,332,571,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,68,203"/>
+<area shape="rect" id="node7" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1LinUCBCache.html" title=" " alt="" coords="661,169,866,211"/>
+<area shape="rect" id="node8" href="$classblock__cache__analyzer_1_1block__cache__pysim_1_1ThompsonSamplingCache.html" title=" " alt="" coords="620,235,907,276"/>
+</map>

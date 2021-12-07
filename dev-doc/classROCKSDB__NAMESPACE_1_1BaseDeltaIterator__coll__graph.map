@@ -1,0 +1,13 @@
+<map id="ROCKSDB_NAMESPACE::BaseDeltaIterator" name="ROCKSDB_NAMESPACE::BaseDeltaIterator">
+<area shape="rect" id="node1" title=" " alt="" coords="935,136,1116,177"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1Iterator.html" title=" " alt="" coords="608,136,789,177"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="297,132,479,173"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1PinnableSlice.html" title=" " alt="" coords="608,71,789,112"/>
+<area shape="rect" id="node4" href="$structROCKSDB__NAMESPACE_1_1Cleanable_1_1Cleanup.html" title=" " alt="" coords="5,132,187,173"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Comparator.html" title=" " alt="" coords="608,201,789,243"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="297,201,479,243"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,201,187,243"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Status.html" title=" " alt="" coords="608,267,789,308"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="297,5,479,47"/>
+<area shape="rect" id="node11" title=" " alt="" coords="359,77,417,103"/>
+</map>

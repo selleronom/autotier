@@ -1,0 +1,8 @@
+<map id="ROCKSDB_NAMESPACE::TraceExecutionResult" name="ROCKSDB_NAMESPACE::TraceExecutionResult">
+<area shape="rect" id="node1" title=" " alt="" coords="235,104,416,145"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1IteratorTraceExecutionResult.html" title=" " alt="" coords="478,5,686,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1MultiValuesTraceExecutionResult.html" title=" " alt="" coords="464,71,700,112"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1SingleValueTraceExecutionResult.html" title=" " alt="" coords="464,136,700,177"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1StatusOnlyTraceExecutionResult.html" title=" " alt="" coords="467,201,697,243"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1TraceRecordResult.html" title=" " alt="" coords="5,104,187,145"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ROCKSDB_NAMESPACE::LockManager" name="ROCKSDB_NAMESPACE::LockManager">
+<area shape="rect" id="node1" title=" " alt="" coords="108,5,289,47"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1PointLockManager.html" title=" " alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1RangeLockManagerBase.html" title=" " alt="" coords="211,95,394,136"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1RangeTreeLockManager.html" title=" " alt="" coords="212,184,393,225"/>
+</map>

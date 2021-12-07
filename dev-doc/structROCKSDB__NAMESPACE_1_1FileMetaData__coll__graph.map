@@ -1,0 +1,9 @@
+<map id="ROCKSDB_NAMESPACE::FileMetaData" name="ROCKSDB_NAMESPACE::FileMetaData">
+<area shape="rect" id="node1" title=" " alt="" coords="688,149,869,191"/>
+<area shape="rect" id="node2" href="$structROCKSDB__NAMESPACE_1_1FileSampledStats.html" title=" " alt="" coords="321,5,503,47"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1InternalKey.html" title=" " alt="" coords="321,149,503,191"/>
+<area shape="rect" id="node4" title=" " alt="" coords="67,105,125,131"/>
+<area shape="rect" id="node5" href="$structROCKSDB__NAMESPACE_1_1Cache_1_1Handle.html" title=" " alt="" coords="321,215,503,256"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1FileDescriptor.html" title=" " alt="" coords="321,280,503,321"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1TableReader.html" title=" " alt="" coords="5,280,187,321"/>
+</map>

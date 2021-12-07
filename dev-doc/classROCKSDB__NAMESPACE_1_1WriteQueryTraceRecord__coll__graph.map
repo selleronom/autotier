@@ -1,0 +1,10 @@
+<map id="ROCKSDB_NAMESPACE::WriteQueryTraceRecord" name="ROCKSDB_NAMESPACE::WriteQueryTraceRecord">
+<area shape="rect" id="node1" title=" " alt="" coords="871,64,1052,105"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1QueryTraceRecord.html" title=" " alt="" coords="608,15,789,56"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1TraceRecord.html" title=" " alt="" coords="297,5,479,47"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1PinnableSlice.html" title=" " alt="" coords="608,96,789,137"/>
+<area shape="rect" id="node5" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="297,71,479,112"/>
+<area shape="rect" id="node6" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="297,136,479,177"/>
+<area shape="rect" id="node7" href="$structROCKSDB__NAMESPACE_1_1Cleanable_1_1Cleanup.html" title=" " alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node8" title=" " alt="" coords="359,202,417,229"/>
+</map>

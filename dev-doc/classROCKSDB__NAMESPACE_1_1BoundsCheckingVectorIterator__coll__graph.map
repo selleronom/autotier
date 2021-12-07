@@ -1,0 +1,12 @@
+<map id="ROCKSDB_NAMESPACE::BoundsCheckingVectorIterator" name="ROCKSDB_NAMESPACE::BoundsCheckingVectorIterator">
+<area shape="rect" id="node1" title=" " alt="" coords="1397,175,1616,216"/>
+<area shape="rect" id="node2" href="$classROCKSDB__NAMESPACE_1_1VectorIterator.html" title=" " alt="" coords="1131,109,1312,151"/>
+<area shape="rect" id="node3" href="$classROCKSDB__NAMESPACE_1_1InternalIteratorBase.html" title=" " alt="" coords="828,51,948,78"/>
+<area shape="rect" id="node4" href="$classROCKSDB__NAMESPACE_1_1Cleanable.html" title=" " alt="" coords="528,44,709,85"/>
+<area shape="rect" id="node5" href="$structROCKSDB__NAMESPACE_1_1Cleanable_1_1Cleanup.html" title=" " alt="" coords="236,44,417,85"/>
+<area shape="rect" id="node6" href="$structROCKSDB__NAMESPACE_1_1VectorIterator_1_1IndexedKeyComparator.html" title=" " alt="" coords="791,102,985,158"/>
+<area shape="rect" id="node7" href="$classROCKSDB__NAMESPACE_1_1Comparator.html" title=" " alt="" coords="528,141,709,183"/>
+<area shape="rect" id="node8" href="$classROCKSDB__NAMESPACE_1_1Customizable.html" title=" " alt="" coords="236,141,417,183"/>
+<area shape="rect" id="node9" href="$classROCKSDB__NAMESPACE_1_1Configurable.html" title=" " alt="" coords="5,141,187,183"/>
+<area shape="rect" id="node10" href="$classROCKSDB__NAMESPACE_1_1Slice.html" title=" " alt="" coords="1131,233,1312,275"/>
+</map>
