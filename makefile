@@ -1,6 +1,6 @@
 FS_TARGET = dist/from_source/autotierfs
 CLI_TARGET = dist/from_source/autotier
-FS_LIBS =  -lfuse3 -lpthread -lboost_system -lboost_filesystem -lboost_serialization -ldl -llz4 -lz -lsnappy -l:lib45d.a
+FS_LIBS =  -lfuse3 -lpthread -lboost_system -lboost_filesystem -lboost_serialization -ldl -lbz2 -llz4 -lzstd -lz -lsnappy -l:lib45d.a
 ifdef DEB
 FS_LIBS += -l:liburing.a
 else
