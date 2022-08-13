@@ -22,7 +22,7 @@ CLI_OBJECT_FILES := $(patsubst src/impl/%.cpp, build/%.o, $(CLI_SOURCE_FILES))
 SHARED_SOURCE_FILES := $(shell find src/impl/shared -name *.cpp)
 SHARED_OBJECT_FILES := $(patsubst src/impl/%.cpp, build/%.o, $(SHARED_SOURCE_FILES))
 
-ROCKSDB_STATIC := src/rocksdb/librocksdb.a
+ROCKSDB_STATIC := /usr/lib/librocksdb.a
 
 ifeq ($(PREFIX),)
 	PREFIX := /opt/45drives/autotier
